@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ThisisKan
 - 👀 I’m interested in [Hip-hop, Code, Fashion...]
-- 🌱 I’m currently learning html / css / js
+Building Esau, an evidence-first BNB Chain investigation agent written in Python. Full-stack developer working in Django, Next.js and Flutter. Based in Lagos, Nigeria.
+- 🌱 https://github.com/AliFikan94/Esau
 - 💞️ I’m looking to collaborate on a web app project
 - 📫 How to reach me fikanali94@gmail.com
 
